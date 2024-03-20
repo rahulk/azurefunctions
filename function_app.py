@@ -1,3 +1,4 @@
+# https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python
 import azure.functions as func
 import logging
 
